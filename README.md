@@ -51,7 +51,7 @@ The frontend communicates with REST APIs for:
 - Credits system
 
 
-VITE_API_BASE_URL=http://localhost:5000
+localhost url : http://localhost:5175/
 
 
 ## Getting Started
